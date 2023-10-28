@@ -222,7 +222,7 @@
     
       <item>
         <title>Semaine 16</title>
-        <description>&lt;p&gt;Le code est terminé et mis à jour sur &lt;a href=&quot;https://github.com/brilhana/ift3150&quot;&gt;GitHub&lt;/a&gt;. Il se peut qu’il y ai de très petites modifications au code, essentiellement pour faire des tests sur des tailles de mini-lots et des taux d’apprentissage différents à inclure dans le rapport.&lt;/p&gt;
+        <description>&lt;p&gt;Le code est terminé et mis à jour sur &lt;a href=&quot;https://github.com/alexandrebrilhante/ift3150&quot;&gt;GitHub&lt;/a&gt;. Il se peut qu’il y ai de très petites modifications au code, essentiellement pour faire des tests sur des tailles de mini-lots et des taux d’apprentissage différents à inclure dans le rapport.&lt;/p&gt;
 
 &lt;p&gt;Je suis en pleine rédaction du rapport, il devrait être finalisé d’ici quelques jours.&lt;/p&gt;
 </description>
@@ -250,7 +250,7 @@
     
       <item>
         <title>Semaine 14</title>
-        <description>&lt;p&gt;J’ai préparé mes &lt;a href=&quot;https://github.com/brilhana/ift3150/blob/master/slides.pdf&quot;&gt;diapositives&lt;/a&gt; pour mon exposé de mercredi. J’ai fait quelques corrections à mon algorithme BHHH qui approxime la matrice hessienne et également raffiné ma descente de gradient stochastique ce qui devrait la faire converger beaucoup plus rapidement. Il ne manque qu’à déterminer le taux d’apprentissage puisque actuellement j’utilise la valeur fixe 0.001 souvent utilisé en machine learning.&lt;/p&gt;
+        <description>&lt;p&gt;J’ai préparé mes &lt;a href=&quot;https://github.com/alexandrebrilhante/ift3150/blob/master/slides.pdf&quot;&gt;diapositives&lt;/a&gt; pour mon exposé de mercredi. J’ai fait quelques corrections à mon algorithme BHHH qui approxime la matrice hessienne et également raffiné ma descente de gradient stochastique ce qui devrait la faire converger beaucoup plus rapidement. Il ne manque qu’à déterminer le taux d’apprentissage puisque actuellement j’utilise la valeur fixe 0.001 souvent utilisé en machine learning.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Dec 2017 07:16:12 -0500</pubDate>
         <link>http://localhost:4000/blog/2017/12/07/semaine14/</link>

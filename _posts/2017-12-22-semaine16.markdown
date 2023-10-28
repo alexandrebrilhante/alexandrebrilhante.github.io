@@ -7,6 +7,6 @@ categories:
 - blog
 ---
 
-Le code est terminé et mis à jour sur [GitHub](https://github.com/brilhana/ift3150). Il se peut qu'il y ai de très petites modifications au code, essentiellement pour faire des tests sur des tailles de mini-lots et des taux d'apprentissage différents à inclure dans le rapport.
+Le code est terminé et mis à jour sur [GitHub](https://github.com/alexandrebrilhante/ift3150). Il se peut qu'il y ai de très petites modifications au code, essentiellement pour faire des tests sur des tailles de mini-lots et des taux d'apprentissage différents à inclure dans le rapport.
 
 Je suis en pleine rédaction du rapport, il devrait être finalisé d'ici quelques jours.

@@ -1,6 +1,6 @@
-# brilhana.github.io
+# alexandrebrilhante.github.io
 
-[brilhana.github.io](http://brilhana.github.io)
+[alexandrebrilhante.github.io](http://alexandrebrilhante.github.io)
 
 Page personnel.
 
